@@ -1,5 +1,4 @@
 import math
-import time
 def zeros(n):
     count = 0
     if n<5:
@@ -20,4 +19,4 @@ def zeros3(n):
             return total
         total += n
 print(zeros3(100))
-enumerate
+
